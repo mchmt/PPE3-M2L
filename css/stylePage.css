@@ -1,0 +1,135 @@
+body {
+	width: 100%;
+}
+
+#site{
+	box-shadow: 1px 1px 12px #555;
+	width: 1000px;
+	margin: auto;
+}
+
+#banniere {
+	background-image:url(../img/header.jpg);
+	height: 150px;
+	width: 1000px;
+	margin: auto;
+	border-top: 8px solid #000;
+	-webkit-border-radius: 5px;
+	-webkit-border-radius: 3px 3px 0px 0px;
+	border-radius: 3px 3px 0px 0px;
+}
+
+.header {
+  	margin: auto;
+	background-color: rgba(255, 255, 255, 1);
+	margin-right: 20px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 5px;
+	width: 908px;
+}
+
+.headerPage {
+	font-size: 13px;
+}
+
+
+h1, h3, h5, h4 {
+	margin: 0;
+	display:inline;
+}
+p, hr {
+	margin: 0;
+}
+
+.topBar {
+	text-align: center;
+	background-color: #FFF;
+	width: 120px;
+	height: 270px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 10px;
+	-webkit-border-radius: 0px 0px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
+	float: left;
+}
+
+.contenu {
+	background-color: #FFF;
+	width: 1000px;
+	height: 900px;
+	margin: auto;
+	padding: 0px;
+	margin-top:0;
+	border-top: 8px solid #000;
+	-webkit-border-radius: 5px;
+	-webkit-border-radius: 0px 0px 3px 3px;
+	border-radius: 0px 0px 3px 3px;
+}
+
+.section {
+	margin-top: 20px;
+	margin-right: 10px;
+	float: left;
+	height: 900px;
+	width: 680px;
+} 
+
+.message {
+	width: 100%;
+	height: 290px;
+	overflow: auto;
+}
+
+.titreMessage {
+	padding: 5px;
+	background-color: #BDD4DE;
+	-webkit-border-radius: 5px 5px 0 0;
+	border-radius: 5px 5px 0 0;
+	margin-top: 2px;
+}
+.Message {
+	padding: 5px;
+	background-color: #EEEEEE;
+	-webkit-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+	margin-bottom: 8px;
+}
+.contenuMessage {
+	height: 660px;
+	overflow:auto; 
+}
+.conteneurDiscusion {
+	background-color: #EFEFEF;
+	padding: 5px;
+	width: 100%;
+	float: left;
+	border-bottom: 1px solid #7a7a7a;
+}
+.tableDiscussion th{
+	background-color: #EFEFEF;
+	border-bottom: 1px solid #7a7a7a;
+	border-top: 1px solid #7a7a7a;
+}
+.tableDiscussion td{
+	border-bottom: 1px dashed #7a7a7a;
+}
+
+.champInfo {
+	margin-bottom: 5px;
+	padding: 5px;
+	background-color: #BDD4DE;
+	-webkit-border-radius: 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#superbox-overlay{background:#e0e4cc;}
+		#superbox-container .loading{width:32px;height:32px;margin:0 auto;text-indent:-9999px;background:url(styles/loader.gif) no-repeat 0 0;}
+		#superbox .close a{float:left;padding:0 5px;line-height:20px;background:#333;cursor:pointer;}
+		#superbox .close a span{color:#fff;}
+		#superbox .nextprev a{float:left;margin-right:5px;padding:0 5px;line-height:20px;background:#333;cursor:pointer;color:#fff;}
+		#superbox .nextprev .disabled{background:#ccc;cursor:default;}

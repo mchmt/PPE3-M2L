@@ -1,0 +1,16 @@
+.formInscription {
+	margin-left: 20%;
+}
+.formInscription label{
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: 100px;
+	color: #3F5765;
+	font-size: 13px;
+	text-align: right;
+	margin-right: 5px;
+}
+#formInscription input {
+
+}
