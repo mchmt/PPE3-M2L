@@ -53,6 +53,7 @@
 	Tél. : 03 83 18 87 07
 	Fax : 03 83 18 87 03
 	Email : jeannine.vuillemard@m2l.fr
+	HAHAHAHAHAHAH
 </div>
 
 <hr />
