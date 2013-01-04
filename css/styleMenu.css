@@ -22,19 +22,19 @@
 .leMenu {
 	width: 120px;
 }
-ul {
+.leMenu ul {
   	list-style: none;
   	margin: 0;
   	padding: 0;
 }
-li {
+.leMenu li {
 	border-bottom: 1px solid #7A7A7A;
 }
-li, a {
+.leMenu li, a {
 	color: #000;
 	text-decoration: none;
 }
-li:hover {
+.leMenu li:hover {
 	background-color: #E4E4E4;
 }
 a:hover {
