@@ -15,7 +15,9 @@
 	</head>
 	<body>
 		<div id="site">
-			<div id="banniere"></div>
+			<div id="banniere">
+				
+			</div>
 			<div class="contenu">
 				<div class="menu">
 					<h3>Maison des ligues de Lorraine</h3><br />
