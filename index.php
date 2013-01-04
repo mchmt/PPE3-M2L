@@ -1,6 +1,6 @@
 <?php
 	if (!isset($_GET["page"])) {
-		$page = "presentation";
+		$page = "presentation.php";
 	}
 	else {
 		$page = $_GET["page"];
