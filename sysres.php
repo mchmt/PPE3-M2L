@@ -1,31 +1,33 @@
-<h2 style="margin: 0; color: #1B618C;">Offres d'emploi</h2>
+<h2 style="margin: 0; color: #1B618C;">Réservation de salle</h2>
 <div class="headerPage">
-  Toutes les offres de poste à la Maison des Ligues
+  Comment réserver une salle à la M2L ?
 </div>
 <hr />
-<div class="libelle">Web développeur H/F</div>
-<div class="code">Code de l'offre : WEBDEV001<br /></div>
-<div class="descriptPoste">
-  Date de début : 04/03/2013<br />
-  Type de contrat : CDI temps plein<br />
-  Expérience : 3 ans minimum<br />
-  Niveau d'études : DUT, BTS, BAC+2<br />
-  Salaire : NC<br /><br />
-  Au sein de l’équipe Développement (graphiste, intégrateur, développeur), vous serez en charge de la conception et l’optimisation de bases de données (MySQL), le développement web (PHP, HTML, CSS, Javascript), la maintenance et l’évolution du site de l'association, le respect du responsive design. <br />
-  <br /><br />
+<div class="question">
+  Comment fonctionne le système de réservation des salles ressources, comme les salles de réunions,
+  l’amphithéâtre ou encore la nouvelle salle de convivialité ?
+  <br />
 </div>
-
-<div class="libelle">Chargé(e) de formation H/F</div>
-<div class="code">Code de l'offre : CHGFRM012<br /></div>
-<div class="descriptPoste">
-  Date de début : <br />
-  Type de contrat : CDI temps plein<br />
-  Expérience : 5 ans minimum<br />
-  Niveau d'études : DUT, BTS, BAC+2<br />
-  Salaire : 21 000 - 26 000/an<br /><br />
-  Titulaire d'un Bac +2 avec une expérience professionnelle de  2 à 3  ans minimum en gestion, vous maîtrisez les techniques de gestion, ainsi que l’utilisation des principaux logiciels bureautiques (Word, Excel, PowerPoint et Outlook). La connaissance de la formation professionnelle continue serait appréciée.<br />
-  Rigueur, autonomie, sens du service et esprit d'équipe sont indispensables pour réussir dans cette fonction. <br />
+<div class="reponse">
+  Concernant l’amphi, il y a ½ journée gratuite par an pour chaque ligue et comité départemental (CD). Les
+  salles de réunions d’étage sont mises librement à la disposition des occupants de l’étage. Les salles de
+  réunions sont réservables via l’Intranet, avec différents services associés dont certains sont payants. Il
+  existe quatre niveaux de tarification. En 2009, nous avons reçu 2732 réunions et 47316 personnes ont
+  assisté à ces réunions.
   <br /><br />
+<div class="question">
+  Quels sont ces niveaux de tarification ?
+  <br />
 </div>
-
-<br />
+<div class="reponse">
+  Les ligues peuvent réserver sans payer jusqu’à concurrence de six réservations par an, hors amphi. Les
+  clubs sportifs et les comités départementaux ont un premier niveau de tarification. Les associations, les
+  lycées ou encore les collèges sont sur un second niveau de tarification. Enfin, tous les autres organismes, y
+  compris des sociétés privées, sont sur le niveau de tarification le plus haut. Pour toutes les structures qui
+  ne sont pas hébergées, les locaux étant publics, il faut faire signer entre les parties une « convention
+  d’occupation temporaire ». La réservation se fait dans l’Intranet directement pour les structures hébergées
+  ou par le secrétariat pour une demande extérieure. Les informations sont ensuite transmises au Conseil
+  Régional qui émet un « titre de paiement », c’est-à-dire une facture d’occupation de locaux. Ces titres sont
+  envoyés directement par le Conseil Régional aux utilisateurs.
+  <br />
+</div>
