@@ -21,13 +21,13 @@ Description du site
 </div>
 
 <div class="question">
-  <i>Implantation des quatre bâtiments</i><br />
+  Implantation des quatre bâtiments<br />
   /* ici insérer l'image planbat.jpg */
   <br /><br />
 </div>
 
 <div class="question">
-  <i>Implantation des locaux en rez-de-chaussée des quatre bâtiments<i> <br />
+  Implantation des locaux en rez-de-chaussée des quatre bâtiments<br />
 </div>
 <div class="reponse">
   /* ici insérer l'image implantation.jpg */
@@ -51,7 +51,7 @@ Description du site
 </div>
 
 <div class="question">
-  <i>Implantation des ligues dans les bureaux</i><br />
+  Implantation des ligues dans les bureaux<br />
 </div>
 <div class="reponse">
   En fonction de leur importance, les ligues et comités départementaux occupent un ou plusieurs bureaux. Ceux-ci peuvent communiquer entre eux quand ils sont contigus. Chaque bureau dispose d'un espace de rangement.
