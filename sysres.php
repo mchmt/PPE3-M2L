@@ -3,6 +3,7 @@
   Comment réserver une salle à la M2L ?
 </div>
 <hr />
+<i>Interview du Directeur Lucien Sapin.</i><br /><br />
 <div class="question">
   Comment fonctionne le système de réservation des salles ressources, comme les salles de réunions,
   l’amphithéâtre ou encore la nouvelle salle de convivialité ?
