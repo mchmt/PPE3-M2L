@@ -16,6 +16,7 @@
   existe quatre niveaux de tarification. En 2009, nous avons reçu 2732 réunions et 47316 personnes ont
   assisté à ces réunions.
   <br /><br />
+</div>
 <div class="question">
   Quels sont ces niveaux de tarification ?
   <br />
